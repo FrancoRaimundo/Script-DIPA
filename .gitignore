@@ -1,0 +1,24 @@
+# === Datos (NO subir) ===
+# La carpeta de datos de cada PC (hojas + pdf/jpg de los participantes).
+Aulas/
+
+# === Sesiones de navegador (por PC, contienen tu login) ===
+.perfil_dipa/
+.perfil_dipa_cdp/
+
+# === Salidas generadas (se regeneran al correr) ===
+registro_aula_*.xlsx
+reporte_validacion_aula_*.csv
+formulario_dipa.txt
+
+# === Python ===
+__pycache__/
+*.pyc
+
+# === Editor / sistema ===
+.claude/
+.vscode/
+.idea/
+*.tmp
+Thumbs.db
+desktop.ini
